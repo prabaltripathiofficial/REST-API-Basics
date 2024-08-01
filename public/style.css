@@ -1,0 +1,47 @@
+h1{
+    color: maroon;
+}
+.post{
+    background-color: bisque;
+    height: 150px;
+    border: solid 1px maroon;
+}
+.username{
+    font-style: italic;
+}
+button{
+    border-radius: 5%;
+    height: 40px;
+    width: 80px;
+    background-color: maroon;
+    color: white;
+    cursor: pointer;
+}
+input[type="button"]{
+    border-radius: 5%;
+    margin-top: 15px;
+    height: 40px;
+    width: 80px;
+    background-color: maroon;
+    color: white;
+    cursor: pointer;
+}
+input[type="submit"]{
+    border-radius: 5%;
+    margin-top: 15px;
+    height: 40px;
+    width: 120px;
+    background-color: maroon;
+    color: white;
+    cursor: pointer;
+}
+form{
+    display: inline-block;
+}
+form input{
+    border: maroon solid 2px;
+}
+form textarea{
+    border: maroon solid 2px;
+    font-style: italic;
+}
